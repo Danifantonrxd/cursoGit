@@ -9,3 +9,12 @@ body{
     font-family: Arial, Helvetica, sans-serif;
     color: darkblue;
 }
+
+.Cabecera{
+    margin: auto;
+    padding: 1em;
+    
+    background:white;
+    border: 1px solid #333;
+    text-align: left;
+}
