@@ -58,3 +58,17 @@ body{
 .seccion_2 p{
     margin:.5em;
 }
+
+.footer{
+    background: rgb(15, 60, 82);
+    color: rgb(255, 255, 255);
+    text-shadow: 1 0 1 0;
+    text-align: center;
+    max-width: 1026px;
+    margin: auto;
+    padding: 1em;
+    font-size: 1.2em;
+    font-family: sans-serif;
+    border: 1px solid black;
+    border-top: none;
+}
