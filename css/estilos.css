@@ -7,14 +7,52 @@ body{
     text-align: center;
     background: #CCCCCC;
     font-family: Arial, Helvetica, sans-serif;
-    color: darkblue;
 }
 
 .Cabecera{
+    max-width: 1000px;
     margin: auto;
-    padding: 1em;
+    padding: 2em;
+    margin-top: 1em;
     
-    background:white;
+    background:rgb(6, 106, 163);
+    color: white;
     border: 1px solid #333;
     text-align: left;
+    box-shadow: 0 1em 3em 0 black;
+}
+
+.Cabecera h1 b{
+    color: rgb(255, 128, 37);
+    font-size: 1.3em;
+}
+
+.Cuerpo{
+    max-width: 1000px;
+    margin: auto;
+    padding: 2em;
+    margin-top: 1em;
+    
+    background:cornsilk;
+    border: 1px solid #333;
+    text-align: left;
+}
+
+.seccion_1{
+    margin:auto;
+    padding:1em;
+    color: teal;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 1.2em;
+}
+
+.seccion_2{
+    margin:auto;
+    padding:1em;
+    color: rgb(0, 88, 52);
+    font-family: 'Courier New', Courier, monospace;   
+}
+
+.seccion_2 p{
+    margin:.5em;
 }
