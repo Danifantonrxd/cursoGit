@@ -44,13 +44,15 @@ body{
     color: teal;
     font-family: 'Courier New', Courier, monospace;
     font-size: 1.2em;
+    border-bottom: 1px solid darkgreen;
 }
 
 .seccion_2{
     margin:auto;
     padding:1em;
-    color: rgb(0, 88, 52);
-    font-family: 'Courier New', Courier, monospace;   
+    color: rgb(5, 102, 9);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    border-top: 1px solid darkgreen;
 }
 
 .seccion_2 p{
