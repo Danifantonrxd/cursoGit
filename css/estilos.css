@@ -21,6 +21,8 @@ body{
     border: 1px solid #333;
     text-align: left;
     box-shadow: 0 1em 3em 0 black;
+    justify-content: center;
+    align-items: center;
 }
 
 .Cabecera .logo{
